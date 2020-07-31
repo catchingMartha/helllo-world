@@ -1,2 +1,2 @@
 # helllo-world
-catchingMartha @ learning something new
+catchingMartha @ learningSomethingNew
